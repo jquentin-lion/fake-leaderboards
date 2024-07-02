@@ -1,0 +1,21 @@
+{
+    "name": "LionStudios.Suite.Leaderboards.Fake.Runtime",
+    "rootNamespace": "LionStudios.Suite.Leaderboards.Fake",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:a4cfc1a18fa3a469b96d885db522f42e",
+        "GUID:5e326df2329b95e4da43eaf3f14e6cd1",
+        "GUID:53231f761774eb84cb7bd616b06ed6c2",
+        "GUID:d42a270c17fd8423dbf4ed6bd190b048",
+        "GUID:d1ca235deb252488f9b0423ba903223c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

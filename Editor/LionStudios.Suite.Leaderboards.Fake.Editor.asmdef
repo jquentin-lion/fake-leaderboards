@@ -1,0 +1,19 @@
+{
+    "name": "LionStudios.Suite.Leaderboards.Fake.Editor",
+    "rootNamespace": "LionStudios.Suite.Leaderboards.Fake.Editor",
+    "references": [
+        "GUID:cbc466659e39241eb8a1a6e6d110ea1a",
+        "GUID:53231f761774eb84cb7bd616b06ed6c2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

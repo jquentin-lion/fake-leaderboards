@@ -1,0 +1,27 @@
+{
+  "name": "com.lionstudios.release.fakeleaderboards",
+  "lionId": "FKL",
+  "author": "Lion Studios - Advanced",
+  "displayName": "Lion - Fake Leaderboards",
+  "version": "0.0.0",
+  "description": "Leaderboards module",
+  "samples": [
+    {
+      "displayName": "Race Module Example",
+      "description": "",
+      "path": "Samples~/Race Module Example"
+    },
+    {
+      "displayName": "Leagues Module Example",
+      "description": "",
+      "path": "Samples~/Leagues Module Example"
+    }
+  ],
+  "hideInEditor": false,
+  "dependencies": {
+    "com.lionstudios.release.lionanalytics": "0.0.0",
+    "com.lionstudios.release.lionkitcore": "0.0.0",
+    "com.lionstudios.release.uicommons": "0.0.0",
+    "com.lionstudios.release.liveops": "0.0.0"
+  }
+}
