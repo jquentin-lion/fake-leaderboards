@@ -3,7 +3,7 @@
   "lionId": "FKL",
   "author": "Lion Studios - Advanced",
   "displayName": "Lion - Fake Leaderboards",
-  "version": "0.0.0",
+  "version": "0.1.0-pr.10.cus",
   "description": "Leaderboards module",
   "samples": [
     {
@@ -19,9 +19,9 @@
   ],
   "hideInEditor": false,
   "dependencies": {
-    "com.lionstudios.release.lionanalytics": "0.0.0",
-    "com.lionstudios.release.lionkitcore": "0.0.0",
-    "com.lionstudios.release.uicommons": "0.0.0",
-    "com.lionstudios.release.liveops": "0.0.0"
+    "com.lionstudios.release.lionanalytics": "3.6.0",
+    "com.lionstudios.release.lionkitcore": "3.8.0-pr.1",
+    "com.lionstudios.release.uicommons": "0.4.0-pr.1",
+    "com.lionstudios.release.liveops": "1.7.0-pr.1"
   }
 }
